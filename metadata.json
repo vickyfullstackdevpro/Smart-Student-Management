@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Performance Analyser final",
+  "description": "Comprehensive student management and AI analytics platform with live AI interaction capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
